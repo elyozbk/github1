@@ -1,0 +1,55 @@
+h1 {
+  text-align: center;
+  color: black;
+}
+.ui divider, p {
+  text-align: center;
+  color: #555;
+}
+.elik, c {
+  text-align: center;
+  background-color: red;
+  width: 600px;
+  margin: 0 auto;
+  padding: 100px;
+}
+.ui icon input {
+  background-color: blue;
+  border-radius: 3px;
+  width: 100%;
+}
+.mes {
+  width: 90px;
+}
+.nom, p{
+  float: center;
+  padding-bottom: 50px;
+  border: 1px solid #555;
+}
+.elik, c {
+  float: center;
+  border: 1px solid #555;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 75px;
+  padding-bottom: 90px;
+}
+.ui table, d {
+  float: left;
+  border: 5px solid blue;
+  padding: 4px;
+  width: 100%;
+}
+.ui table, d {
+  float: center;
+  border: 5px solid blue;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  width: 100%;
+}
+.messi {
+  width: 100%;
+  text-align: center;
+}
